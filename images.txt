@@ -1,2 +1,1 @@
-jaegertracing/jaeger-agent:1.39.0
-jaegertracing/jaeger-query:1.39.0
+velero/velero-plugin-for-aws:v1.10.0
