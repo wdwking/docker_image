@@ -1,1 +1,1 @@
-coredns/coredns:latest
+coredns/coredns:v1.11.3
