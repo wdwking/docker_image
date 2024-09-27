@@ -1,1 +1,1 @@
-emqx/emqx:5.6.1
+easzlab/kubeasz:3.6.4
