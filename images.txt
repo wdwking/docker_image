@@ -1,1 +1,5 @@
-registry.k8s.io/ingress-nginx/controller:v1.12.1
+dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-api:3.1.9
+dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-alert-server:3.1.9
+dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-tools:3.1.9
+dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-master:3.1.9
+dolphinscheduler.docker.scarf.sh/apache/dolphinscheduler-worker:3.1.9
